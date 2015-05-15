@@ -1,0 +1,64 @@
+/*Style Sheet Yo*/
+
+p, h1, h3, button, .btn {
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+	text-decoration: none;
+	margin: 0 auto;
+}
+
+/*Initials*/
+#initials {
+	font-size: 57px;
+	font-family: 'PT Sans Caption', sans-serif;
+	padding: 65px 0 65px 0;
+}
+
+/*Name*/
+#name {
+	font-size: ;
+}
+
+/*Location*/
+#location {
+	font-size: ;
+	color: darkgrey;
+	padding: 15px 0 15px;
+}
+/*Title*/
+#title {
+	font-size: ;
+	color: black;
+	padding-bottom: 15px;
+}
+
+/*Portfolio Pieces*/
+img {
+	max-width: 100%;
+	padding: 25px 0 25px;
+	margin: 0 auto;
+	display: block;
+}
+
+
+/*contact button*/
+.btn {
+	-webkit-border-radius: 28;
+	-moz-border-radius: 28;
+	border-radius: 28px;
+	color: #ffffff;
+	font-size: 10px;
+	font-weight: 500;
+	background: #f45c43;
+	padding: 10px 32px 10px 32px;
+	text-decoration: none;
+	display: block;
+	text-transform: uppercase;
+
+}
+
+.btn:hover {
+	background: #191f1d;
+	text-decoration: none;
+	color: #fff;
+}
