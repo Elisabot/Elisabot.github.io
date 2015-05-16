@@ -7,35 +7,42 @@ p, h1, h3, button, .btn {
 	margin: 0 auto;
 }
 
+/*Email Envelope*/
+.glyphicon.glyphicon-envelope {
+	color: red;
+	display: block;
+	margin-right: 0;
+}
+
 /*Initials*/
 #initials {
-	font-size: 57px;
+	font-size: 53px;
 	font-family: 'PT Sans Caption', sans-serif;
-	padding: 65px 0 65px 0;
+	padding: 60px 0 60px 0;
 }
 
 /*Name*/
 #name {
-	font-size: ;
+	font-size: 18px;
 }
 
 /*Location*/
 #location {
 	font-size: ;
 	color: darkgrey;
-	padding: 15px 0 15px;
+	padding: 10px 0 10px;
 }
 /*Title*/
 #title {
 	font-size: ;
 	color: black;
-	padding-bottom: 15px;
+	padding-bottom: 20px;
 }
 
 /*Portfolio Pieces*/
 img {
 	max-width: 100%;
-	padding: 25px 0 25px;
+	padding: 25px 20px 25px;
 	margin: 0 auto;
 	display: block;
 }
