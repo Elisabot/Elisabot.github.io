@@ -9,9 +9,9 @@ p, h1, h3, button, .btn {
 
 /*Email Envelope*/
 .glyphicon.glyphicon-envelope {
-	color: red;
+	color: black;
 	display: block;
-	margin-right: 0;
+	margin: 17px;
 }
 
 /*Initials*/
