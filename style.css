@@ -49,12 +49,11 @@ img {
 
 
 /*contact button*/
-.btn {
+#email {
 	-webkit-border-radius: 28;
 	-moz-border-radius: 28;
 	border-radius: 28px;
 	color: #ffffff;
-	font-size: 10px;
 	font-weight: 500;
 	background: #f45c43;
 	padding: 10px 32px 10px 32px;
@@ -64,8 +63,12 @@ img {
 
 }
 
-.btn:hover {
+#email:hover, #email:link {
 	background: #191f1d;
 	text-decoration: none;
 	color: #fff;
+}
+
+#ps {
+	margin: 28px;
 }
