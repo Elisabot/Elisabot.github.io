@@ -1,6 +1,6 @@
 /*Style Sheet Yo*/
 
-p, h1, h3, button, .btn {
+p, h1, h3, button, .btn, #email {
 	font-family: 'Roboto', sans-serif;
 	text-align: center;
 	text-decoration: none;
@@ -26,25 +26,25 @@ body {
 
 /*Initials*/
 #initials {
-	font-size: 53px;
+	font-size: 57px;
 	font-family: 'PT Sans Caption', sans-serif;
 	padding: 60px 0 60px 0;
 }
 
 /*Name*/
 #name {
-	font-size: 18px;
+	font-size: 23px;
 }
 
 /*Location*/
 #location {
-	font-size: ;
+	font-size: 23px;
 	color: darkgrey;
 	padding: 10px 0 10px;
 }
 /*Title*/
 #title {
-	font-size: ;
+	font-size: 20px;
 	color: black;
 	padding-bottom: 20px;
 }
@@ -65,10 +65,10 @@ img {
 	border-radius: 28px;
 	color: #ffffff;
 	font-weight: 500;
+	font-size: 20px;
 	background: #f45c43;
 	padding: 10px 32px 10px 32px;
 	text-decoration: none;
-/*	display: inline-block;*/
 	text-transform: uppercase;
 
 }
@@ -81,9 +81,17 @@ img {
 
 #ps {
 	margin: 28px;
+	font-size: 23px;
 }
 
 a, a:focus, a:hover, a:active {
   display: inline-block;
   text-align: center;
+}
+
+/*Social Media Links*/
+
+#social-media {
+	padding-top: 15px;
+	padding-bottom: 20px;
 }
