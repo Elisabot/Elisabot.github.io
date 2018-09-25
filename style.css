@@ -89,6 +89,10 @@ a, a:focus, a:hover, a:active {
   text-align: center;
 }
 
+.btn-default {
+	border-color: none;
+}
+
 /*Social Media Links*/
 
 #social-media {
